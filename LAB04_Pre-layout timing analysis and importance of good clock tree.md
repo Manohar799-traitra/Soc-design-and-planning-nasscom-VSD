@@ -1,7 +1,5 @@
 # Section 4 – Pre-Layout Timing Evaluation and Clock Tree Optimization  
-**Timeline:** 22/03/2024 – 24/03/2024  
 
----
 
 ## Theory
 
