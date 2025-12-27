@@ -1,9 +1,8 @@
 # Lab 2 – Floorplanning and Placement using OpenLANE
-
-**Date:** 17/03/2024  
+  
 **Design:** picorv32a  
 **Flow:** OpenLANE Interactive Flow  
-**Run Directory:** Section 2 Run – 17-03_12-06  
+**Run Directory:** Section 2 Run – 27-12_17-28  
 
 ---
 
@@ -117,7 +116,7 @@ The Magic VLSI tool is used to visualize and verify the generated floorplan DEF.
 
 Commands Used
 
-cd Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-03_12-06/results/floorplan/
+cd Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/27-12_17-28/results/floorplan/
 
 magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech \
 lef read ../../tmp/merged.lef \
@@ -145,7 +144,7 @@ run_placement
 
 5. Placement Visualization using Magic
 Commands Used
-cd Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-03_12-06/results/placement/
+cd Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/27-12_17-28/results/placement/
 
 magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech \
 lef read ../../tmp/merged.lef \
