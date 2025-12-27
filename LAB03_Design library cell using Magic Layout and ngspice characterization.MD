@@ -1,6 +1,5 @@
 # Lab 3 – Design Library Cell using Magic Layout and ngspice Characterization
-
-**Date:** 18/03/2024 – 21/03/2024  
+ 
 **Technology:** Sky130  
 **Tools Used:** Magic VLSI, ngspice, OpenLANE  
 **Design:** Custom CMOS Inverter Standard Cell  
